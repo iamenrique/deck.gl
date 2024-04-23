@@ -21,6 +21,10 @@ Ref: http://keepachangelog.com/en/0.3.0/
 
 ### deck.gl v9.0 Prereleases
 
+#### deck.gl [9.0.0-beta.11] - Apr 23 2024
+
+- Test publishing from CI
+
 #### deck.gl [9.0.0-beta.10] - Mar 20 2024
 
 - Add Zoom and Compass widgets (#8072)
